@@ -1,0 +1,13 @@
+{
+    "port"                        : 8085,
+    "app_name"                    : "Vaccination Drive",
+  
+    "http_address"                : "http://localhost",
+  
+    "db_name"                     : "vaccination",
+    "username"                    : "vaccination",
+    "password"                    : "vaccination",
+    "db_address"                  : "localhost:5432",
+    "max_connection_pool_size"    : 100
+  }
+  
